@@ -1,0 +1,7 @@
+------------------Card Template-------------------------
+Dear NAME,
+
+Merry Christmas and a Happy New Year!
+
+Best wishes,
+-------------------------------------------------------
